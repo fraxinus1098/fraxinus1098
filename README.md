@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Former transportation engineer at Texas A&M ('19) and current MBA student at Yale ('25) on a mission to democratize AI
+🔭 Former transportation engineer at Texas A&M ('19) turned MBA at Yale ('25) ➡️ On a mission to democratize AI
+PURPOSE DRIVEN: Innovator | Community Builder | Human-Centered Thought Leader
 <br>💬 Ask me about the future of mobility, AI, AR/VR/XR
 <br>⚡ Fun fact: I do drone photography
 
